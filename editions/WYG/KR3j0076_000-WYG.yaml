@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3j0076/WYG/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書子部十
+  hash: sha256:6558828ce7672044657017b2bb9c6172233a999f18551baa91b8fd0e67ea1b4b
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3j0076_WYG_000-1a, image: WYG0860/WYG0860-0001a.png}
+body:
+  text: 義門讀書記雜家類二雜考之屬提要臣等謹案義門讀書記五十八卷國朝蔣維鈞輯録何焯校正諸書之文也焯字屺瞻長洲人康熙四十一年用直𨽻巡撫李光地薦以拔貢生入直内廷尋特賜進士出身改庶吉士授編修後坐事禠職仍校書武英殿康熙六十一年復原官贈侍讀學士焯文章負盛名而無所著作傳於世沒後其從子堂始裒其㸃校諸書之語為六卷維鈞益加蒐輯編為此書凡四書六卷詩二卷左傳二巻公羊穀梁各一卷史記二卷漢書六卷後漢書五卷三國志二卷五代史一卷韓愈集五卷栁宗元集三卷歐陽修集二卷曽鞏集五卷蕭統文選五卷陶潛詩一卷杜甫集六卷李商隠集二卷考證皆極精審其兩漢書及三國志乾隆五年廷臣奉詔校刋經史頗采用其説焉乾隆四十三年九月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:38199ed0caab33422cfe17b3e2b9487240e035c4c83c4318c994d6af5671bd98
+metadata:
+  title: 義門讀書記
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 23:22:16.260498'
+  juan_title: 提要
+  source:
+    repository: kanripo
+    path: KR3j0076/KR3j0076_000.txt
+hash: sha256:29addeea3a0b17d03564414dff3b18c9373018d0a8242c83f7ee9e0619521d9f
